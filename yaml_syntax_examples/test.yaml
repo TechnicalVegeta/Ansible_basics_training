@@ -1,0 +1,22 @@
+Ingredients:
+  - Coffee
+  - Flavored Liquid
+  - Milk
+  - Water
+  - Sugar
+
+Process:
+  - Grinding
+  - Pressing
+  - Boiling
+  - Filtering
+  - Mixing
+
+Grinding:
+  Coffee: Sunrise
+  Texture: Coarse
+
+Mixing:
+  Milk: "True"
+  Sugar: "True"
+  No_of_Cups: 1
